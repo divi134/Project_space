@@ -1,0 +1,89 @@
+[
+    {
+        "id": 1,
+        "text": "Home",
+        "path": "/"
+    },
+    {
+        "id": 2,
+        "text": "About",
+        "path": "/about"
+    },
+    {
+        "id": 6,
+        "text": "Contact Us",
+        "path": "/contact"
+    },
+    {
+        "id": 3,
+        "text": "Explore",
+        "path": "#!",
+        "submenu": [
+            {
+                "id": 11,
+                "text": "Practice",
+                "path": "/explore-01"
+            },
+            {
+                "id": 31,
+                "text": "Play",
+                "path": "/explore-02"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "text": "Login/Register",
+        "path": "#!",
+        "megamenu": [
+            
+            {
+                "id": 42,
+                "submenu": [
+                    {
+                        "id": 420,
+                        "text": "Log In",
+                        "path": "/login",
+                        "icon": "feather-log-in"
+                    }
+                ]
+            },
+            {
+                "id": 43,
+                "submenu": [
+                    {
+                        "id": 433,
+                        "text": "Registration",
+                        "path": "/sign-up",
+                        "icon": "feather-user-plus"
+                    }
+                ]
+            }   ,
+            {
+                "id": 44,
+                "submenu": [
+                    
+                    
+                    {
+                        "id": 433,
+                        "text": "Edit Profile",
+                        "path": "/edit-profile",
+                        "icon": "feather-edit"
+                    }
+                ]
+            },
+            {
+                "id": 45,
+                "submenu": [
+                    {
+                        "id": 455,
+                        "text": "Forgot Password",
+                        "path": "/edit-profile",
+                        "icon": "feather-lock"
+                    }
+                ]
+            }      
+        ]
+    }
+   
+]
