@@ -12,7 +12,16 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file..
+You can see our coding platform page which we have made for our project space program.
+We are a team of 5 members and our mentor Divya madam guided us in our project. 
+
+Here's are some snippets of our project:
+
+![Screenshot (33)](https://github.com/divi134/Project_space/assets/96563541/5335c64f-5197-4639-8a63-66f33fc44a9b)
+![Screenshot (34)](https://github.com/divi134/Project_space/assets/96563541/fe7e2618-e766-42d3-b0b3-eda37e9dab7e)
+![Screenshot (35)](https://github.com/divi134/Project_space/assets/96563541/52d71711-43e9-4835-8f0b-3434b9c95c2f)
+![Screenshot (36)](https://github.com/divi134/Project_space/assets/96563541/f2a6f52c-7a50-4879-a77f-feca693c05c4)
+
 
 [API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
 
@@ -27,10 +36,3 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-
-# ntest-nextjs
